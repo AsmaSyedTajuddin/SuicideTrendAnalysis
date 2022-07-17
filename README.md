@@ -1,5 +1,7 @@
 # SuicideTrendAnalysis
 
+Goal: Studying Trends between Year and Suicide Numbers, genders and populations.
+
 The given dataset includes the following parameters:
 
 Country
@@ -15,9 +17,10 @@ GDP per capita
 Generation
 
 
+
 The following algorithms will be tested on the given dataset and the one with the best performance would be declared suitable:
 
-Random Forest
-Decision Tree
-Linear Regression
-Support Vector Regression
+1. Random Forest
+2. Decision Tree
+3. Linear Regression
+4. Support Vector Machine
